@@ -1,4 +1,4 @@
-### Hi there ![Hi](https://github.com/aryannagar/aryannagar/assets/40473422/b61b4022-7c44-43cb-ac42-c9f30914bede)
+### Hi there <img src="https://github.com/aryannagar/aryannagar/assets/40473422/b61b4022-7c44-43cb-ac42-c9f30914bede" dragabble="false" width=50 />
 
 
 
