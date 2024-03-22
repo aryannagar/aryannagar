@@ -1,4 +1,5 @@
-### Hi there 👋 
+### Hi there ![image](https://github.com/aryannagar/aryannagar/assets/40473422/4f804d66-872d-4160-b724-fa0f925a5f98)
+
 
 <!--
 **aryannagar/aryannagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
