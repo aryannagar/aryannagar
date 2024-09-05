@@ -41,10 +41,10 @@ Here are some ideas to get you started:
 
 <!-- About me section -->
 
-<h2>⚡️ About Me</h2>
+<h2>⚡️ About Me, Here are some ideas to get you started:</h2>
 
 <ul>
-  <li>✨ I’m Ruth Ikegah </li>
+  <li>😎 I’m Aryan Nagar</li>
   
   <li>👨‍💻 I work consistently to write and improve scalable content for brands and companies</li>
   
