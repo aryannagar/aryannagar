@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 
 <!--Image Gif-->
-<img  src="https://user-images.githubusercontent.com/105108549/190127191-945c97b4-f2e8-47fe-b1da-ff678d31c0ed.gif" height="250px" align="center" />
+<img  src="https://user-images.githubusercontent.com/105108549/190127191-945c97b4-f2e8-47fe-b1da-ff678d31c0ed.gif" height="250px" align="right" />
 
 <!-- About me section -->
 
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
  <!-- Conecct section: END -->
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Ruth-ikegah&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+  <img src="https://komarev.com/ghpvc/?username=Aryan-Nagar&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
 
