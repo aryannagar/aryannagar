@@ -63,9 +63,6 @@ Here are some ideas to get you started:
     <p>
         <a href="https://www.instagram.com/aryannagar27"><img src="https://img.shields.io/badge/-Ruth%20Ikegah%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/adeoluwa-agbakosi-687023219" alt="LinkedIn Badge"></a> 
        <a href="https://www.twitter.com/aryannagar27"><img src="https://img.shields.io/badge/-IkegahRuth-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
-
-      <a href="https://www.twitter.com/aryannagar27" title="Follow me on twitter" target="/blank"><img src="https://github.com/aryannagar/aryannagar/assets/40473422/386c32bf-1d31-41a7-8b13-4b2ba7b58645" width=20 dragabble="false" /></a> 
-      <a href="https://www.instagram.com/aryannagar27" target="/blank" title="Follow me on Instagram"><img src="https://github.com/aryannagar/aryannagar/assets/40473422/687d9aeb-f3fb-4abd-b40a-3061b4f73336" width=20 dragabble="false" /></a>
    </p>
    
  <!-- Conecct section: END -->
