@@ -46,13 +46,13 @@ Here are some ideas to get you started:
 <ul>
   <li>😎 I’m Aryan Nagar</li>
   
-  <li>👨‍💻 I work consistently to write and improve scalable content for brands and companies</li>
+  <li>🔭 Currently exploring .NET Core, EPI Server, AWS and Angular.</li>
   
-  <li>🔭  I bring my strong aptitude for analytical thinking, disciplined problem-solving, collaborative style, and strong communication skills.</a>
+  <li>🖊️ Currently working on a Hospital Management Sys on .net MVC.</a>
   
-  <li>💬 I'm passionate about building sustainable tech communities, especially in the Open-Source space.</li>
+  <li>🤔 I'm passionate about building sustainable tech communities, and exploring new techs.</li>
   
-  <li>🎉🌱 Fun Fact : I love contributing to open source project, and i'm also a  <a href="https://stars.github.com/profiles/ruth-ikegah/">Github star</li>
+  <li>💬 Ask me about UI/Web Design & Dev.</li>
 </ul>
 
 <!-- About me section: END -->
