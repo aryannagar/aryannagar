@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 
 
 
-<h2 align="center">Hello there<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h2>
+<h2 align="center">Hello there<img src = "https://github.com/aryannagar/aryannagar/assets/40473422/b61b4022-7c44-43cb-ac42-c9f30914bede" dragabble="false" width = 30px></h2>
 
 <!-- Animation Typing -->
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&width=500&lines=I'm+Ruth+Ikegah.;I'm+a+Backend+Developer,+technical+writer;"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&width=500&lines=I'm+Aryan+Nagar.;I'm+a+Backend+Developer,+.NET;">
 </p>
 
 <!-- Animation Typing: END -->
