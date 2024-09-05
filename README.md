@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!-- Animation Typing -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&width=500&lines=I'm+Aryan+Nagar.;I'm+a+Software+Developer,+Specializing+in+.NET;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&width=500&lines=I'm+Aryan+Nagar.+Software+Developer;Specializing+in+FE+Development+&+.NET;">
 </p>
 
 <!-- Animation Typing: END -->
