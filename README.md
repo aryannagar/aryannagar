@@ -68,29 +68,8 @@ Here are some ideas to get you started:
    
  <!-- Conecct section: END -->
 
-
-<!-- Github Stats -->
-
-
-## :fire: Github Stats
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ruth-ikegah&show_icons=true&locale=en&theme=tokyonight" alt="Ruth-ikegah" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ruth-ikegah&&theme=tokyonight" alt="Ruth-ikegah" /></p>
-
-
-<!-- Github Stats: END -->
-
-
-**You can check out my blog here**
-- [My blog](https://cakebaby.dev/)
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Ruth-ikegah&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
-### What I am listening to on Spotify now 🎧
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=043eqk3md4yew2hbq11fld610&cover_image=true&theme=default&show_offline=false)](https://github.com/kittinan/spotify-github-profile)
 
