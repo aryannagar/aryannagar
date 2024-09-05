@@ -8,7 +8,7 @@
 
 <img  src="https://user-images.githubusercontent.com/105108549/190127191-945c97b4-f2e8-47fe-b1da-ff678d31c0ed.gif" height="250px" align="right" />
 
-<h2>⚡️ About Me, Here are some ideas to get you started:</h2>
+<h2>⚡ Here's something, About Me:</h2>
 <ul>
   <li>😎 I’m Aryan Nagar</li>  
   <li>🔭 Currently exploring .NET Core, EPI Server, AWS and Angular.</li>  
